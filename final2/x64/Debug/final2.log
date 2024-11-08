@@ -1,0 +1,11 @@
+﻿  principal.cpp
+C:\UPN\Computacion_grafica\final2\final2\principal.cpp(37,29): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\UPN\Computacion_grafica\final2\final2\principal.cpp(37,34): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\UPN\Computacion_grafica\final2\final2\principal.cpp(37,39): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\UPN\Computacion_grafica\final2\final2\principal.cpp(39,30): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\UPN\Computacion_grafica\final2\final2\principal.cpp(39,34): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\UPN\Computacion_grafica\final2\final2\principal.cpp(39,38): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\UPN\Computacion_grafica\final2\final2\principal.cpp(629,45): warning C4305: 'argumento': truncamiento de 'double' a 'GLclampf'
+C:\UPN\Computacion_grafica\final2\final2\principal.cpp(652,14): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\UPN\Computacion_grafica\final2\final2\principal.cpp(655,14): warning C4305: '-=': truncamiento de 'double' a 'float'
+  final2.vcxproj -> C:\UPN\Computacion_grafica\final2\x64\Debug\final2.exe

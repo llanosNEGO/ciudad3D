@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\UPN\\Computacion_grafica\\final2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BCA01B8E-7936-467E-844A-114C3EC442EE}|final2\\final2.vcxproj|C:\\UPN\\Computacion_grafica\\final2\\final2\\principal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BCA01B8E-7936-467E-844A-114C3EC442EE}|final2\\final2.vcxproj|solutionrelative:final2\\principal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 137,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "principal.cpp",
+              "DocumentMoniker": "C:\\UPN\\Computacion_grafica\\final2\\final2\\principal.cpp",
+              "RelativeDocumentMoniker": "final2\\principal.cpp",
+              "ToolTip": "C:\\UPN\\Computacion_grafica\\final2\\final2\\principal.cpp",
+              "RelativeToolTip": "final2\\principal.cpp",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAAEMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-08T03:44:46.641Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
